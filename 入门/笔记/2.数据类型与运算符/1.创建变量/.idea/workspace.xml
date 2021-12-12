@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd9d35e-c14b-4b35-afc7-e677fa1627cd" name="变更" comment="" />
+    <list default="true" id="01f39811-59c9-4c16-9419-6385ff38923a" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +16,15 @@
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="项目" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="22AmbaqkTXjHHS21RONcOMWsWjG" />
+  <component name="ProjectId" id="22Ayc7Vx7C8v3EhnIiUUkEWdUhl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -85,14 +86,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.Two">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="3" />
+      <module name="1.创建变量" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -100,8 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Two" />
+      <module name="1.创建变量" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.Two" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Two" />
         <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
@@ -109,11 +120,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="1dd9d35e-c14b-4b35-afc7-e677fa1627cd" name="变更" comment="" />
-      <created>1639288839723</created>
+      <changelist id="01f39811-59c9-4c16-9419-6385ff38923a" name="变更" comment="" />
+      <created>1639294763698</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639288839723</updated>
+      <updated>1639294763698</updated>
     </task>
     <servers />
   </component>
