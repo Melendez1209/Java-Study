@@ -32,19 +32,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-17.0.1" />
+    <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="应用程序.Two">
+  <component name="RunManager" selected="应用程序.Two (2)">
+    <configuration name="Two (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Two" />
+      <module name="2.数据类型" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Java 草稿.2.数据类型" />
       <item itemvalue="应用程序.Two" />
+      <item itemvalue="应用程序.Two (1)" />
+      <item itemvalue="应用程序.Two (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Two" />
+        <item itemvalue="应用程序.Two (2)" />
       </list>
     </recent_temporary>
   </component>
