@@ -38,23 +38,34 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="应用程序.Two (2)">
-    <configuration name="Two (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.Two">
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Two" />
       <module name="2.数据类型" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="未命名" type="GroovyScriptRunConfiguration" factoryName="Groovy" nameIsGenerated="true">
+      <module name="2.数据类型" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Java 草稿.2.数据类型" />
+      <item itemvalue="Groovy.未命名" />
       <item itemvalue="应用程序.Two" />
-      <item itemvalue="应用程序.Two (1)" />
-      <item itemvalue="应用程序.Two (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Two (2)" />
+        <item itemvalue="应用程序.Two" />
       </list>
     </recent_temporary>
   </component>
